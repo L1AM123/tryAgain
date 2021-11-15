@@ -20,6 +20,7 @@ public class MyWorld extends World
         robot r1 = new robot(4,400,true);
         addObject(r1,100,100);
         System.out.println(r1.toString());
-        
+        //useless comment
+        System.out.println("useless comment");
     }
 }
